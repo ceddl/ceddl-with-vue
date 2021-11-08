@@ -1,6 +1,6 @@
 {
     "name": "ceddl-with-vue",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "> Vue.js is a library for building interactive web interfaces. It provides data-driven, nestable view components with a simple and flexible API.",
     "main": "serve.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "license": "MIT",
     "dependencies": {
-        "@ceddl/ceddl-polyfill": "^0.9.3",
+        "@ceddl/ceddl-polyfill": "^0.9.9",
         "director": "^1.2.0",
         "todomvc-app-css": "^2.0.0",
         "todomvc-common": "^1.0.1",
